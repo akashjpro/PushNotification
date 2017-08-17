@@ -1,8 +1,10 @@
-package com.example.tmha.pushnotification;
+package com.example.tmha.pushnotification.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.example.tmha.pushnotification.R;
 
 public class MainActivity extends AppCompatActivity {
     public static final String EXTRA_MESSAGE_TEXT = "EXTRA_MESSAGE_TEXT";

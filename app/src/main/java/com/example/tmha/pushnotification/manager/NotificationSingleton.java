@@ -1,4 +1,4 @@
-package com.example.tmha.pushnotification;
+package com.example.tmha.pushnotification.manager;
 
 import android.content.Context;
 
